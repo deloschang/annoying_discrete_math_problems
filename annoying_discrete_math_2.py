@@ -1,4 +1,5 @@
 # to solve annoying discrete mathematics outcome listing problems
+# flip the coin until it has come up heads 3 times or we have flipped it 5 times
 
 def convert(number):
     if number == 0:
